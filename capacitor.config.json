@@ -1,6 +1,6 @@
 {
-  "appId": "com.edelios.lexique",
-  "appName": "lexique",
+  "appId": "",
+  "appName": "capacitor-react",
   "bundledWebRuntime": true,
   "npmClient": "npm",
   "webDir": "www"
